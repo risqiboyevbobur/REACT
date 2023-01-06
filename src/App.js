@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <Nav name="bobur"/>
+    <Nav name="boburrisqiboyev"/>
    <Header/>
    <Footer/>
     </>
